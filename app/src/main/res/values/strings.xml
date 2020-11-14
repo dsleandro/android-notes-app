@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="grid">Grid view</string>
+    <string name="list">List view</string>
+
+    <!-- Empty home strings -->
+    <string name="looksEmpty">It looks empty…</string>
+    <string name="emptyNotes">Create a new note to view it here!</string>
+
+    <!-- profile bar strings -->
+    <string name="profile">Profile</string>
+
+    <!-- edit note bar strings -->
+    <string name="draw">Draw</string>
+    <string name="voice">Add voice note</string>
+    <string name="checkbox">add list item</string>
+    <string name="image">add image</string>
+    <string name="save">Save</string>
+
+    <!-- Login strings -->
+    <string name="form_username">Username</string>
+    <string name="form_password">Password</string>
+    <string name="form_signin">Sign in</string>
+    <string name="default_username">Unknown</string>
+
+</resources>
